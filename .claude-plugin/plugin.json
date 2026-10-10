@@ -1,0 +1,8 @@
+{
+  "name": "design-skills",
+  "version": "1.0.0",
+  "description": "30 design skills for Claude Code: UI critique, distinctive UI, tokens, color, type, layout, accessibility, dark mode, motion, landing and pricing pages, dashboards, tables, forms, states, navigation, onboarding, mobile, components, docs, UX writing, flows, wireframes, screenshot-to-code, data viz, brand, slides, social graphics and handoff.",
+  "author": { "name": "Agent Poly" },
+  "license": "MIT",
+  "keywords": ["design", "ui", "ux", "accessibility", "design-system", "frontend", "skills"]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "agent-poly",
+  "description": "Free skills from Agent Poly",
+  "owner": { "name": "Agent Poly" },
+  "plugins": [
+    {
+      "name": "design-skills",
+      "source": "./",
+      "description": "30 design skills: critique, distinctive UI, tokens, color, type, layout, accessibility, dark mode, motion, pages, dashboards, forms, mobile, components, UX writing, data viz, brand, slides, social graphics, handoff."
+    }
+  ]
+}
