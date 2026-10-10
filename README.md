@@ -11,7 +11,7 @@
 <h2 align="center">⭐ If these skills help you, please star the repo ⭐</h2>
 <p align="center">It helps other people find it, and it tells me to keep adding more.</p>
 
-Made by [Emircan Açar](https://github.com/emircanacardev). I also make animated shorts about AI as [@agentpoly](https://www.instagram.com/agentpoly) on Instagram.
+Made by [Emircan Açar](https://github.com/emircanacardev). I also make animated shorts about AI as **Agent Poly**: [Instagram](https://www.instagram.com/agentpoly) · [TikTok](https://www.tiktok.com/@theagentpoly) · [YouTube](https://www.youtube.com/channel/UCsrpeXAzuNW3dKxe7O1X4cw)
 
 ---
 
