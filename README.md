@@ -1,8 +1,16 @@
 # Claude Design Skills
 
+![30 design skills for Claude](assets/banner.png)
+
+[![Skills](https://img.shields.io/badge/skills-30-e4572e)](#whats-inside)
+[![Works with](https://img.shields.io/badge/works%20with-Claude%20%C2%B7%20Claude%20Code%20%C2%B7%20Codex-1c1a16)](#install)
+[![License: MIT](https://img.shields.io/badge/license-MIT-1c1a16)](LICENSE)
+
 **30 free design skills for Claude, Claude Code and Codex.** Each one teaches the AI a real design workflow with concrete rules: real sizes, contrast values, timings, checklists. Ask "make this landing page less generic" or "audit this form" and it knows what good looks like.
 
-Made by **Agent Poly**. Follow on Instagram [@agent.poly](https://instagram.com/agent.poly) for more.
+**If they help you, please star the repo.** It helps other people find it, and it tells me to keep adding more.
+
+Made by [Emircan Açar](https://github.com/emircanacardev). I also make animated shorts about AI as [@agent.poly](https://instagram.com/agent.poly) on Instagram.
 
 ---
 
@@ -57,14 +65,14 @@ Made by **Agent Poly**. Follow on Instagram [@agent.poly](https://instagram.com/
 ### Claude Code: as a plugin (easiest, updates with one command)
 Inside Claude Code:
 ```
-/plugin marketplace add YOUR-GITHUB-USERNAME/claude-design-skills
+/plugin marketplace add emircanacardev/claude-design-skills
 /plugin install design-skills@agent-poly
 ```
 Skills then appear as `/design-skills:landing-page`, `/design-skills:design-critique` and so on. Claude also picks them up on its own when your request matches.
 
 ### Claude Code: copy the folders
 ```bash
-git clone https://github.com/YOUR-GITHUB-USERNAME/claude-design-skills
+git clone https://github.com/emircanacardev/claude-design-skills
 cd claude-design-skills
 ./install.sh              # macOS / Linux → ~/.claude/skills
 powershell -ExecutionPolicy Bypass -File .\install.ps1   # Windows
@@ -99,5 +107,8 @@ Skills work well in pairs: `distinctive-ui` + `landing-page`, `color-system` + `
 ## Make them yours
 Every skill is a single readable `SKILL.md`. Change the rules to match your own design system: your fonts, your spacing scale, your brand colors.
 
+## Contributing
+Found a rule that is wrong or missing? Open an issue or a pull request. Each skill is one `SKILL.md`, so changes are easy to review.
+
 ## License
-MIT. Use them, fork them, share them. A mention of [@agent.poly](https://instagram.com/agent.poly) is appreciated.
+MIT. Use them, fork them, share them. A star or a mention is appreciated.

@@ -1,7 +1,10 @@
 {
   "name": "agent-poly",
-  "description": "Free skills from Agent Poly",
-  "owner": { "name": "Agent Poly" },
+  "description": "Free skills by Emircan Açar (Agent Poly)",
+  "owner": {
+    "name": "Emircan Açar",
+    "url": "https://github.com/emircanacardev"
+  },
   "plugins": [
     {
       "name": "design-skills",
